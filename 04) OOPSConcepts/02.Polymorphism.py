@@ -4,7 +4,7 @@ class Bird:
 		print("There are several types of birds.")
 
 	def flight(self):
-		print("Most of then can fly but a few cannot.")
+		print("Most of them can fly but a few cannot.")
 
 class pigeon(Bird):
 	
