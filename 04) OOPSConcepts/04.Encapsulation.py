@@ -3,8 +3,8 @@
 # Base/Super class
 class Base:
 	def __init__(self):
-		self.a = "LogicOpsLab"
-		self.__c = "LogicOpsLab"
+		self.a = "LogicOpsLab-a value"
+		self.__c = "LogicOpsLab-c value"
 
 # Creating a derived/sub class
 

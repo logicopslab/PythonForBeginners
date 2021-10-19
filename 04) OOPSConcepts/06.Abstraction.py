@@ -12,7 +12,7 @@ class Suzuki(Car):
 class VW(Car):   
      def mileage(self):   
           print("The mileage is 24kmph ")   
-  
+
 class Renault(Car):   
     def mileage(self):   
             print("The mileage is 27kmph ")   
