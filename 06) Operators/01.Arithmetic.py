@@ -2,10 +2,10 @@
 x = 19
 y = 4
 
-# Addition of numyers
+# Addition of numbers
 add = x + y
 
-# Suytrxction of numyers
+# Subtraction of numbers
 sub = x - y
 
 # Multiplication of number
