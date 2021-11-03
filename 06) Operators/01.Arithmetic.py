@@ -17,7 +17,7 @@ div1 = x / y
 # Division(floor) of number
 div2 = x // y
 
-# Modulo of both numyer
+# Modulo of both number
 mod = x % y
 
 # Power
