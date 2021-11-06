@@ -11,10 +11,10 @@ print(bool(0))
 # Any list, tuple, set, and dictionary are True
 # Except empty ones.
 
-bool(False)
-bool(None)
-bool(0)
-bool("")
-bool(())
-bool([])
-bool({})
+print(bool(False))
+print(bool(None))
+print(bool(0))
+print(bool(""))
+print(bool(()))
+print(bool([]))
+print(bool({}))

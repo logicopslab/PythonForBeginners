@@ -1,7 +1,7 @@
 # Python program to illustrate short hand if
 num = 100
 if num < 150:
-	print("num is less than 15")
+	print("num is less than 150")
 
 # OR
 
