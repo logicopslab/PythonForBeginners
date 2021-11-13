@@ -16,8 +16,8 @@ print(e2_length)
 
 # Example 3
 
-print(range(50,1000,100))
-
+print(list(range(1,100,5)))
 e3_length = len(range(1,100,5))
+
 print(e3_length)
 
