@@ -1,5 +1,5 @@
 for val in "LogicOpsLab":
-    if (val == "O" or val == "O"): #Case Sensitive
+    if (val == "O" or val == "l"): #Case Sensitive
         break
     print(val)
 
