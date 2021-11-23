@@ -13,7 +13,6 @@ print('List Of given Cats:\n')
 for cats in catsAndBreedOrigin:
 	print(cats)
 
-
 # Nested
 
 studentData = {
@@ -23,6 +22,5 @@ studentData = {
 }
 print("\n")
 for iterator in studentData:
-	
 	# show
-	print(studentData[iterator].keys)
+	print(studentData[iterator].keys())
